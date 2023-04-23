@@ -1,0 +1,27 @@
+# Ignore temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore credentials and sensitive information
+config.py
+secrets.txt
+
+# Ignore build artifacts and output files
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+
+#folder test
+data/
+audio/
+models/
+test/
+test.txt

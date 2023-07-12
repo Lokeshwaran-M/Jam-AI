@@ -1,12 +1,9 @@
 
-# Jam - AI
+# [Jam - AI](https://github.com/Jam-AI-org)
 
-## Jam - jam assist me! :
+## JAM - jam assist me! :
 
-JAM stands for jam assist me <!--  or just assist me -->
-
-JAM is a personal AI voice-controlled assistant using technologies such as Speech Recognition, NLP, TTS, and stuffs
-
+JAM stands for Jam Assist Me <!--  or just assist me --> a personal AI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers. It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
 > the core knowledge of the system is not yet developed will be updated soon
 
 ---
@@ -67,3 +64,17 @@ choco install ffmpeg
 # on Windows using Scoop (https://scoop.sh/)
 scoop install ffmpeg
 ```
+
+## Contribution :
+
+Any form of contribution is accepted here
+- Submitting issues
+- Submitting pull requests
+- Submitting feature requests
+- Submitting bug reports
+- Submitting documentation revisions
+- Submitting translations
+- Submitting any other forms of contribution
+
+for contribution guidelines and terms and condition to contribute refere [jam-contribution](https://github.com/Lokeshwaran-M/jam-contribution.git)
+

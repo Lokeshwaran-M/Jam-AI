@@ -1,10 +1,8 @@
 
 from loklib import listen
 from loklib import speech_senth as ss
-from loklib import gn_task ,test
-from loklib.llm import bard, gpt_2
-import sys
-import os
+from loklib import gn_task 
+
 
 
 
@@ -39,11 +37,8 @@ def listen():
         
         if "stop" in pmt.lower():
             break
-        # gpt_res = gpt_2.res(pmt)
-        # brain_res = brain.res(pmt)    
-        # res = p_handler.handle(pmt)
         print("cmd : ",pmt)
-        res = bard.res(pmt)
+        res = f"listned : {pmt}"
         print("jam : ",res)
         ss.say(str(res))
 

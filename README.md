@@ -9,7 +9,7 @@ It incorporates technologies such as Speech Recognition, NLP, and TTS for its op
 
 <a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80915494/263127835-0509942a-0528-4471-96fa-8eda3d4f159c.jpeg" width="50%" height="50%" >
+<img src="https://user-images.githubusercontent.com/80915494/265230650-6b3100d4-305e-414a-b7b5-cb2399fc197a.png" width="50%" height="50%" >
 <!-- <p align="center"><a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">Jam-AI</a></p> -->
 
 </p>

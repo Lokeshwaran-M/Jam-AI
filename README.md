@@ -7,15 +7,15 @@ JAM stands for Jam Assist Me <!--  or just assist me --> a personal AI assistant
 
 It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
 
-<a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">
-<p align="center">
-<img src="https://user-images.githubusercontent.com/80915494/265230650-6b3100d4-305e-414a-b7b5-cb2399fc197a.png" width="50%" height="50%" >
-<!-- <p align="center"><a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">Jam-AI</a></p> -->
+> the core knowledge of the system **[Jam-gpt](https://github.com/Lokeshwaran-M/jam-gpt.git)** is not yet developed will be updated soon
 
-</p>
+<a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">
+<div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+<img src="https://user-images.githubusercontent.com/80915494/265230650-6b3100d4-305e-414a-b7b5-cb2399fc197a.png" width="50%" height="50%" >
+</div>
 </a>
 
-> the core knowledge of the system is not yet developed will be updated soon
+
 
 ## [Jam-gpt](https://github.com/Lokeshwaran-M/jam-gpt.git) :
 

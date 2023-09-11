@@ -3,13 +3,13 @@
 
 ## JAM - jam assist me! :
 
-JAM stands for Jam Assist Me <!--  or just assist me --> a personal AI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers.
+JAM stands for Jam Assist Me <!--  or just assist me --> a AGI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers.
 
 It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
 
 > the core knowledge of the system **[Jam-gpt](https://github.com/Lokeshwaran-M/jam-gpt.git)** is not yet developed will be updated soon
 
-<a  href="https://github.com/Lokeshwaran-M/Jam-AI.git">
+<a  href="https://github.com/jam-agi">
 <div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
 <img src="https://user-images.githubusercontent.com/80915494/267155665-90ab73b5-898c-42a4-870c-0ac688bdc397.png" width="50%" height="50%" >
 </div>

@@ -1,5 +1,5 @@
 
-# [Jam - AI](https://github.com/Jam-AI-org)
+# [Jam - AI](https://github.com/jam-agi)
 
 ## JAM - jam assist me! :
 

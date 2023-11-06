@@ -11,7 +11,7 @@ It incorporates technologies such as Speech Recognition, NLP, and TTS for its op
 
 <a  href="https://github.com/jam-agi">
 <div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
-<img src="https://user-images.githubusercontent.com/80915494/267155665-90ab73b5-898c-42a4-870c-0ac688bdc397.png" width="50%" height="50%" >
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80915494/280809858-85e91e19-80a6-443a-a532-eccb3de4de9d.svg" width="50%" height="50%" >
 </div>
 </a>
 

@@ -1,15 +1,15 @@
 
-# [Jam - AI](https://github.com/jam-agi)
+# [Jam - AI](https://github.com/ox-ai)
 
 ## JAM - jam assist me! :
 
-JAM stands for Jam Assist Me <!--  or just assist me --> a AGI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers.
+JAM stands for Jam Assist Me <!--  or just assist me --> a AI assistant developed as a research product of **[OX - AI](https://github.com/ox-ai)** to provide an AI assistant for Linux machines and servers.
 
 It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
 
 > the core knowledge of the system **[Jam-gpt](https://github.com/Lokeshwaran-M/jam-gpt.git)** is not yet developed will be updated soon
 
-<a  href="https://github.com/jam-agi">
+<a  href="https://github.com/ox-ai">
 <div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80915494/280809858-85e91e19-80a6-443a-a532-eccb3de4de9d.svg" width="50%" height="50%" >
 </div>
